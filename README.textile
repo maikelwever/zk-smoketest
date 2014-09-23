@@ -2,6 +2,12 @@ h1. ZooKeeper Smoketest
 
 *Author: "Patrick Hunt":http://people.apache.org/~phunt/* (follow me on "twitter":http://twitter.com/phunt)
 
+Forked by Maikel Wever.
+Currently work in progress, I'm porting this to Kazoo instead of the C-bindings.
+What follows is the original readme. This may not apply.
+
+
+
 h2. Summary
 
 "This project":http://github.com/phunt/zk-smoketest provides a simple smoketest client for a ZooKeeper ensemble. Useful for verifying new, updated, existing installations.
